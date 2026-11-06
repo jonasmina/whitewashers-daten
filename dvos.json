@@ -1,0 +1,1122 @@
+{
+  "liga": "Kreisliga B 2026/2027",
+  "partien": [
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 1,
+      "opp": "Patrick Köster-Rill",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 1,
+      "opp": "Marcel Mansel",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 1,
+      "opp": "Frank Cebulla",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 1,
+      "opp": "Dennis Holz",
+      "own": [
+        "Kevin Hartmann"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 1,
+      "opp": "Patrick Köster-Rill / Mathias Holz",
+      "own": [
+        "Torsten Schürpf",
+        "Damian Schürpf"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 1,
+      "opp": "Frank Cebulla / Dennis Holz",
+      "own": [
+        "Yannik Blessing",
+        "Jonas Mina"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 1,
+      "opp": "Frank Cebulla",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 1,
+      "opp": "Mathias Holz",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 1,
+      "opp": "Patrick Köster-Rill",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 1,
+      "opp": "Marcel Mansel",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 2,
+      "opp": "Tim Sörös",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 2,
+      "opp": "Clemens Schmid",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 2,
+      "opp": "Luca Nicoletti",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 2,
+      "opp": "Christoph Wirth",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        0,
+        3
+      ],
+      "n": 2,
+      "opp": "Luca Nicoletti / Sascha Funk",
+      "own": [
+        "Mathias Schnarrenberger",
+        "Noah Sührck"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 2,
+      "opp": "Christoph Wirth / Clemens Schmid",
+      "own": [
+        "Yannik Blessing",
+        "Jonas Mina"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 2,
+      "opp": "Luca Nicoletti",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 2,
+      "opp": "Sascha Funk",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 2,
+      "opp": "Tim Sörös",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 2,
+      "opp": "Clemens Schmid",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Tobias Klug",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        0,
+        3
+      ],
+      "n": 3,
+      "opp": "Andreas Hackel",
+      "own": [
+        "Kevin Hartmann"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 3,
+      "opp": "Nadine Zehnpfund",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Felix Lübke",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Andreas Hackel / Tobias Klug",
+      "own": [
+        "Torsten Schürpf",
+        "Damian Schürpf"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        0,
+        3
+      ],
+      "n": 3,
+      "opp": "Nadine Zehnpfund / Felix Lübke",
+      "own": [
+        "Mathias Schnarrenberger",
+        "Jonas Mina"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        0,
+        3
+      ],
+      "n": 3,
+      "opp": "Felix Lübke",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Andreas Hackel",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Nadine Zehnpfund",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 3,
+      "opp": "Tobias Klug",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 4,
+      "opp": "Selahaddin Güzelel",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 4,
+      "opp": "Cedric Bienzle",
+      "own": [
+        "Fabian Ziller"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        0,
+        3
+      ],
+      "n": 4,
+      "opp": "Lukas Fröhlich",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 4,
+      "opp": "Henning Holl",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 4,
+      "opp": "Sabine Kollhof / Henning Holl",
+      "own": [
+        "Fabian Ziller",
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 4,
+      "opp": "Cedric Bienzle / Lukas Fröhlich",
+      "own": [
+        "Noah Sührck",
+        "Damian Schürpf"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 4,
+      "opp": "Selahaddin Güzelel",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 4,
+      "opp": "Fabian Kaiser",
+      "own": [
+        "Torsten Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 4,
+      "opp": "Cedric Bienzle",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 4,
+      "opp": "Lukas Fröhlich",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 5,
+      "opp": "Serdar Ergovan",
+      "own": [
+        "Fabian Ziller"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 5,
+      "opp": "Leon Bass",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 5,
+      "opp": "Paul-Patrick Saur",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 5,
+      "opp": "Andreas Schmidt",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 5,
+      "opp": "Andreas Schmidt / Serdar Ergovan",
+      "own": [
+        "Felix Dangelmaier",
+        "Max Liegl"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 5,
+      "opp": "Dominic Buckenhofer / Leon Bass",
+      "own": [
+        "Fabian Ziller",
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 5,
+      "opp": "Paul-Patrick Saur",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 5,
+      "opp": "Andreas Schmidt",
+      "own": [
+        "Kevin Hartmann"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 5,
+      "opp": "Dominic Buckenhofer",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 5,
+      "opp": "Serdar Ergovan",
+      "own": [
+        "Damian Schürpf"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E1",
+      "legs": [
+        3,
+        0
+      ],
+      "n": 6,
+      "opp": "Felix Niederberger",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E2",
+      "legs": [
+        2,
+        3
+      ],
+      "n": 6,
+      "opp": "David Wiedler",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E3",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 6,
+      "opp": "Moritz Weber",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E4",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 6,
+      "opp": "Andre Hartmann",
+      "own": [
+        "Yannik Blessing"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "D1",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 6,
+      "opp": "Felix Niederberger / David Wiedler",
+      "own": [
+        "Yannik Blessing",
+        "Jonas Mina"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "D2",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 6,
+      "opp": "Michael Bahmann / Ricky Kuhn",
+      "own": [
+        "Noah Sührck",
+        "Fabian Ziller"
+      ],
+      "type": "Doppel"
+    },
+    {
+      "code": "E5",
+      "legs": [
+        3,
+        2
+      ],
+      "n": 6,
+      "opp": "Moritz Weber",
+      "own": [
+        "Mathias Schnarrenberger"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E6",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 6,
+      "opp": "Ricky Kuhn",
+      "own": [
+        "Jonas Mina"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E7",
+      "legs": [
+        3,
+        1
+      ],
+      "n": 6,
+      "opp": "Michael Bahmann",
+      "own": [
+        "Noah Sührck"
+      ],
+      "type": "Einzel"
+    },
+    {
+      "code": "E8",
+      "legs": [
+        1,
+        3
+      ],
+      "n": 6,
+      "opp": "Andre Hartmann",
+      "own": [
+        "Fabian Ziller"
+      ],
+      "type": "Einzel"
+    }
+  ],
+  "spieltage": [
+    {
+      "besonders": [
+        "180er: Jonas Mina",
+        "Highfinish 109: Marcel Mansel (Gegner)"
+      ],
+      "date": 1790096400000,
+      "erg": [
+        5,
+        5
+      ],
+      "gegner": "TSV Herbrechtingen II",
+      "n": 1,
+      "ort": "heim",
+      "rid": 21
+    },
+    {
+      "besonders": [],
+      "date": 1790787600000,
+      "erg": [
+        7,
+        3
+      ],
+      "gegner": "SV Mergelstetten I",
+      "n": 2,
+      "ort": "aus",
+      "rid": 129
+    },
+    {
+      "besonders": [
+        "Highfinish 112: Noah Sührck"
+      ],
+      "date": 1791306000000,
+      "erg": [
+        6,
+        4
+      ],
+      "gegner": "SV Mergelstetten II",
+      "n": 3,
+      "ort": "heim",
+      "rid": 173
+    },
+    {
+      "besonders": [
+        "180er: Damian Schürpf",
+        "Highfinish 154: Lukas Fröhlich (Gegner)",
+        "Short Game (18 Darts): Damian Schürpf, Noah Sührck"
+      ],
+      "date": 1791997200000,
+      "erg": [
+        8,
+        2
+      ],
+      "gegner": "RSV Steeldarters I",
+      "n": 4,
+      "ort": "aus",
+      "rid": 289
+    },
+    {
+      "besonders": [],
+      "date": 1792515600000,
+      "erg": [
+        7,
+        3
+      ],
+      "gegner": "RSV Steeldarters II",
+      "n": 5,
+      "ort": "heim",
+      "rid": 322
+    },
+    {
+      "besonders": [
+        "Highfinish 100: Noah Sührck"
+      ],
+      "date": 1793725200000,
+      "erg": [
+        5,
+        5
+      ],
+      "gegner": "SV RV Ohmenheim II",
+      "n": 6,
+      "ort": "aus",
+      "rid": 407
+    },
+    {
+      "besonders": [],
+      "date": 1794934800000,
+      "erg": null,
+      "gegner": "SC Giengen I",
+      "n": 8,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1796144400000,
+      "erg": null,
+      "gegner": "TV Steinheim II",
+      "n": 9,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1796749200000,
+      "erg": null,
+      "gegner": "TB Gingen Bulls IV",
+      "n": 10,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1797440400000,
+      "erg": null,
+      "gegner": "Spvgg Reichenbach I",
+      "n": 11,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1800464400000,
+      "erg": null,
+      "gegner": "TSV Herbrechtingen II",
+      "n": 12,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1800982800000,
+      "erg": null,
+      "gegner": "SV Mergelstetten I",
+      "n": 13,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1802797200000,
+      "erg": null,
+      "gegner": "SV Mergelstetten II",
+      "n": 14,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1803402000000,
+      "erg": null,
+      "gegner": "RSV Steeldarters I",
+      "n": 15,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1804006800000,
+      "erg": null,
+      "gegner": "RSV Steeldarters II",
+      "n": 16,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1804611600000,
+      "erg": null,
+      "gegner": "SV RV Ohmenheim II",
+      "n": 17,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1807030800000,
+      "erg": null,
+      "gegner": "SC Giengen I",
+      "n": 19,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1807635600000,
+      "erg": null,
+      "gegner": "TV Steinheim II",
+      "n": 20,
+      "ort": "heim",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1808240400000,
+      "erg": null,
+      "gegner": "TB Gingen Bulls IV",
+      "n": 21,
+      "ort": "aus",
+      "rid": null
+    },
+    {
+      "besonders": [],
+      "date": 1808845200000,
+      "erg": null,
+      "gegner": "Spvgg Reichenbach I",
+      "n": 22,
+      "ort": "heim",
+      "rid": null
+    }
+  ],
+  "tabelle": [
+    {
+      "g": 6,
+      "pkt": 12,
+      "pl": 1,
+      "sets": "45:15",
+      "sp": 6,
+      "team": "SC Giengen I",
+      "u": 0,
+      "v": 0
+    },
+    {
+      "g": 4,
+      "pkt": 10,
+      "pl": 2,
+      "sets": "38:22",
+      "sp": 6,
+      "team": "TV Winzingen I",
+      "u": 2,
+      "v": 0
+    },
+    {
+      "g": 3,
+      "pkt": 7,
+      "pl": 3,
+      "sets": "30:20",
+      "sp": 5,
+      "team": "SV RV Ohmenheim II",
+      "u": 1,
+      "v": 1
+    },
+    {
+      "g": 3,
+      "pkt": 7,
+      "pl": 4,
+      "sets": "29:21",
+      "sp": 5,
+      "team": "TSV Herbrechtingen II",
+      "u": 1,
+      "v": 1
+    },
+    {
+      "g": 2,
+      "pkt": 6,
+      "pl": 5,
+      "sets": "25:25",
+      "sp": 5,
+      "team": "TB Gingen Bulls IV",
+      "u": 2,
+      "v": 1
+    },
+    {
+      "g": 3,
+      "pkt": 6,
+      "pl": 6,
+      "sets": "28:26",
+      "sp": 6,
+      "team": "SV Mergelstetten I",
+      "u": 0,
+      "v": 3
+    },
+    {
+      "g": 3,
+      "pkt": 6,
+      "pl": 7,
+      "sets": "28:32",
+      "sp": 6,
+      "team": "Spvgg Reichenbach I",
+      "u": 0,
+      "v": 3
+    },
+    {
+      "g": 1,
+      "pkt": 3,
+      "pl": 8,
+      "sets": "22:28",
+      "sp": 5,
+      "team": "TV Steinheim II",
+      "u": 1,
+      "v": 3
+    },
+    {
+      "g": 1,
+      "pkt": 2,
+      "pl": 9,
+      "sets": "21:33",
+      "sp": 6,
+      "team": "RSV Steeldarters I",
+      "u": 0,
+      "v": 5
+    },
+    {
+      "g": 0,
+      "pkt": 1,
+      "pl": 10,
+      "sets": "16:34",
+      "sp": 5,
+      "team": "RSV Steeldarters II",
+      "u": 1,
+      "v": 4
+    },
+    {
+      "g": 0,
+      "pkt": 0,
+      "pl": 11,
+      "sets": "12:38",
+      "sp": 5,
+      "team": "SV Mergelstetten II",
+      "u": 0,
+      "v": 5
+    }
+  ],
+  "team": "TV Winzingen I",
+  "updated": 1793998127921
+}
